@@ -13,10 +13,10 @@ A for loop, to write the following:
 ```
 
 ## FizzBuzz
-A program that writes to the web page from 1 to 100, with the following replacements:
+A program that writes to the web page from 1 to 100, with the following replacements: <br>
 
--If the number is divisible by 3, print "fizz" instead.
--If the number is divisible by 5, print "buzz" instead.
+-If the number is divisible by 3, print "fizz" instead. <br>
+-If the number is divisible by 5, print "buzz" instead. <br>
 -If the number is divisible by both 3 and 5, print "fizzbuzz" instead of the others.
 
 ## Number Guesser
